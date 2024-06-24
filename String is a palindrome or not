@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 int main(){
-printf("K.SUDHEER REDDY-192210249\n");
+printf("Kalyani REDDY-192210159\n");
 char str[100] = "malayalam";
 char str1[100];
 strcpy(str1,str);
