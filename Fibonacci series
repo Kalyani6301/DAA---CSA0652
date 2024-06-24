@@ -10,7 +10,7 @@ int Fibonacci(int n) {
 }
 int main() {
     int n, i;
-    printf("K.Sudheer Reddy-192210249\n");
+    printf("M.V.Kalyani Reddy-192210159\n");
     printf("Enter the number of terms: ");
     scanf("%d", &n);
     printf("Fibonacci series:\n");
